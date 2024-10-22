@@ -17,7 +17,7 @@ body{
     font-weight: lighter;
     font-size: 3rem;
     margin-bottom: 10px;
-    letter-spacing: 0.5rem;
+    letter-spacing: 0.55rem;
 }
 .intro p{
     font-size: 0.9rem;
@@ -28,7 +28,7 @@ body{
 .intro a{
     display: inline-block;
     padding: 1.2rem 4.5rem;
-    background-color: #FBEFEF;
+    background-color: #F8EFEF;
     color: #4dc3cb;
     font-size: 1.2rem;
     letter-spacing: 0.2rem;
